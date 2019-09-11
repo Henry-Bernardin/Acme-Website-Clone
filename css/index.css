@@ -4,12 +4,14 @@ margin:0;
 padding:0; 
 background-color:#f4f4f4;
 }
+
 /* Global */
 .container{
 width:80%; 
 margin:auto; 
 overflow: hidden;
 }
+
 /* Header */
 header{
     background:#35424a;
@@ -18,9 +20,15 @@ header{
     min-height: 70px;
     border-bottom: #e8491d 3px solid;
 }
+
 header a{
     font-size: 16px;
     text-decoration: none;
     text-transform: uppercase;
     color:#ffffff;
+}
+
+header ul{
+    margin:0;
+    padding:0;
 }
