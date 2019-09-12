@@ -80,3 +80,17 @@ header a:hover{
 }
 
 /* Newsletter */
+#newsletter{
+    background: #35424a;
+    padding:15px;
+    color: #ffffff;
+}
+
+#newsletter h1{
+    float: left;
+}
+
+#newsletter form{
+    float: right;
+    margin-top: 15px;
+}
