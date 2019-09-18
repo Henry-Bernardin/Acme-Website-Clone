@@ -26,6 +26,13 @@ overflow: hidden;
     color: #ffffff;
 }
 
+.dark {
+    padding:15px;
+    color:#ffffff;
+    background: #35424a;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 /* Header */
 header{
     background:#35424a;
