@@ -33,6 +33,7 @@ overflow: hidden;
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
 /* Header */
 header{
     background:#35424a;
@@ -77,6 +78,7 @@ header a:hover{
     color:#cccccc;
     font-weight:bold;
 }
+
 /* Showcase */
 #showcase{
     min-height: 400px;
@@ -183,7 +185,7 @@ header{
     padding-bottom: 20px;
 }
 
-#newsletter button, .qutoe button{
+#newsletter button, .quote button{
     display:block;
     width:100%;
 }
@@ -192,6 +194,7 @@ header{
     width:100%;
     margin-bottom:5px;
 }
+
 #showcase h1{
     margin-top: 40px;
 }
