@@ -2,6 +2,11 @@
     box-sizing: border-box;
 }
 
+*:before,
+*:after {
+ box-sizing: border-box;
+}
+
 body{ 
 font:15px/1.5 arial, helvetica, sans-serif; 
 margin:0; 
