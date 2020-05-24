@@ -7,6 +7,12 @@
  box-sizing: border-box;
 }
 
+html,
+body {
+ height: 100%;
+ position: relative;
+}
+
 body{ 
 font:15px/1.5 arial, helvetica, sans-serif; 
 margin:0; 
